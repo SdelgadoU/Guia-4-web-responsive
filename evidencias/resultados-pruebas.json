@@ -1,0 +1,187 @@
+{
+  "fecha": "2026-11-08T22:30:38.130Z",
+  "navegador": "157.0.4341.42",
+  "entorno": "Microsoft Edge Chromium sin interfaz; viewports emulados, no dispositivos físicos",
+  "pruebas": [
+    {
+      "prueba": "Sin desbordamiento 1440 px",
+      "resultado": "APROBADA",
+      "detalle": "{\"viewport\":1440,\"contenido\":1440,\"columnas\":\"566px 566px\",\"nav\":\"flex\",\"imagenes\":true}"
+    },
+    {
+      "prueba": "Imágenes 1440 px",
+      "resultado": "APROBADA",
+      "detalle": ""
+    },
+    {
+      "prueba": "Sin desbordamiento 768 px",
+      "resultado": "APROBADA",
+      "detalle": "{\"viewport\":768,\"contenido\":768,\"columnas\":\"341px 341px\",\"nav\":\"none\",\"imagenes\":true}"
+    },
+    {
+      "prueba": "Imágenes 768 px",
+      "resultado": "APROBADA",
+      "detalle": ""
+    },
+    {
+      "prueba": "Sin desbordamiento 390 px",
+      "resultado": "APROBADA",
+      "detalle": "{\"viewport\":390,\"contenido\":390,\"columnas\":\"350px\",\"nav\":\"none\",\"imagenes\":true}"
+    },
+    {
+      "prueba": "Imágenes 390 px",
+      "resultado": "APROBADA",
+      "detalle": ""
+    },
+    {
+      "prueba": "Sin desbordamiento 320 px",
+      "resultado": "APROBADA",
+      "detalle": "{\"viewport\":320,\"contenido\":320,\"columnas\":\"280px\",\"nav\":\"none\",\"imagenes\":true}"
+    },
+    {
+      "prueba": "Imágenes 320 px",
+      "resultado": "APROBADA",
+      "detalle": ""
+    },
+    {
+      "prueba": "Sin desbordamiento 639 px",
+      "resultado": "APROBADA",
+      "detalle": "{\"viewport\":639,\"contenido\":639,\"columnas\":\"599px\",\"nav\":\"none\",\"imagenes\":true}"
+    },
+    {
+      "prueba": "Imágenes 639 px",
+      "resultado": "APROBADA",
+      "detalle": ""
+    },
+    {
+      "prueba": "Sin desbordamiento 640 px",
+      "resultado": "APROBADA",
+      "detalle": "{\"viewport\":640,\"contenido\":640,\"columnas\":\"277px 277px\",\"nav\":\"none\",\"imagenes\":true}"
+    },
+    {
+      "prueba": "Imágenes 640 px",
+      "resultado": "APROBADA",
+      "detalle": ""
+    },
+    {
+      "prueba": "Sin desbordamiento 1023 px",
+      "resultado": "APROBADA",
+      "detalle": "{\"viewport\":1023,\"contenido\":1023,\"columnas\":\"468.5px 468.5px\",\"nav\":\"none\",\"imagenes\":true}"
+    },
+    {
+      "prueba": "Imágenes 1023 px",
+      "resultado": "APROBADA",
+      "detalle": ""
+    },
+    {
+      "prueba": "Sin desbordamiento 1024 px",
+      "resultado": "APROBADA",
+      "detalle": "{\"viewport\":1024,\"contenido\":1024,\"columnas\":\"466px 466px\",\"nav\":\"flex\",\"imagenes\":true}"
+    },
+    {
+      "prueba": "Imágenes 1024 px",
+      "resultado": "APROBADA",
+      "detalle": ""
+    },
+    {
+      "prueba": "Menú móvil abre",
+      "resultado": "APROBADA",
+      "detalle": ""
+    },
+    {
+      "prueba": "Escape cierra y devuelve foco",
+      "resultado": "APROBADA",
+      "detalle": ""
+    },
+    {
+      "prueba": "Enlace cierra menú",
+      "resultado": "APROBADA",
+      "detalle": ""
+    },
+    {
+      "prueba": "Filtro Entradas",
+      "resultado": "APROBADA",
+      "detalle": ""
+    },
+    {
+      "prueba": "Filtro Principales",
+      "resultado": "APROBADA",
+      "detalle": ""
+    },
+    {
+      "prueba": "Filtro Postres",
+      "resultado": "APROBADA",
+      "detalle": ""
+    },
+    {
+      "prueba": "Filtro Toda la carta",
+      "resultado": "APROBADA",
+      "detalle": ""
+    },
+    {
+      "prueba": "Fecha pasada rechazada",
+      "resultado": "APROBADA",
+      "detalle": ""
+    },
+    {
+      "prueba": "Lunes rechazado",
+      "resultado": "APROBADA",
+      "detalle": ""
+    },
+    {
+      "prueba": "Correo inválido rechazado",
+      "resultado": "APROBADA",
+      "detalle": ""
+    },
+    {
+      "prueba": "Nombre vacío rechazado",
+      "resultado": "APROBADA",
+      "detalle": ""
+    },
+    {
+      "prueba": "Resumen de reserva demostrativa",
+      "resultado": "APROBADA",
+      "detalle": ""
+    },
+    {
+      "prueba": "Editar limpia resumen anterior",
+      "resultado": "APROBADA",
+      "detalle": ""
+    },
+    {
+      "prueba": "Pregunta desplegable",
+      "resultado": "APROBADA",
+      "detalle": ""
+    },
+    {
+      "prueba": "Enlace de salto con teclado",
+      "resultado": "APROBADA",
+      "detalle": ""
+    },
+    {
+      "prueba": "Destino de salto",
+      "resultado": "APROBADA",
+      "detalle": ""
+    },
+    {
+      "prueba": "Enlaces internos con destino",
+      "resultado": "APROBADA",
+      "detalle": ""
+    },
+    {
+      "prueba": "Etiquetas del formulario",
+      "resultado": "APROBADA",
+      "detalle": ""
+    },
+    {
+      "prueba": "Sin errores de JavaScript",
+      "resultado": "APROBADA",
+      "detalle": "[]"
+    },
+    {
+      "prueba": "Contenido y navegación sin JavaScript",
+      "resultado": "APROBADA",
+      "detalle": ""
+    }
+  ]
+}
